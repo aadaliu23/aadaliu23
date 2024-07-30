@@ -2,6 +2,7 @@ Hello, I'm Ada. I'm currently a high school student in NYC. In my youth, I broug
 
 Feel free to reach out to me at aada.liu23@gmail.com
 
+![](skedaddle.gif)
 <!---
 aadaliu23/aadaliu23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
